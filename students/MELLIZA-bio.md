@@ -2,5 +2,5 @@
 - Year: 3rd Year
 - Section: G5
 - Favorite Language: Java, C
-- One Git Tip Learned: e.g., Use `git status` and 'git branch' often just to double check everything
+- One Git Tip Learned: Use of `git status` and 'git branch' often just to double check everything
 - GitHub: @DaveC020
